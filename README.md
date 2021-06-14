@@ -5,16 +5,16 @@
 </a>
 <br>
 <p>
-            Hi, I'm <a href="https://www.ganeshkodiganti.com/"  target="_blank" rel="nofollow">Ganesh Kodiganti</a>, a .Net Full Stack web developer, currently working for Virtusa as a permanent employee
-            and as a vendor for Citibank with 10+ years experience. I am also a big fan of Microsoft technologies and proficient with most of their technology offerings like Signal R,
+            Hi, I'm <a href="https://www.ganeshkodiganti.com/"  target="_blank" rel="nofollow">Ganesh Kodiganti</a>, a .Net Full Stack web developer with more than 10 years experience, currently working for Virtusa as a permanent employee
+            and as a vendor for Citibank. I am also a big fan of Microsoft technologies and proficient with most of their technology offerings like Signal R,
             Microsoft Azure etc.
         </p>
         <p> I am getting started with my open-source journey and currently learning Angular. I would like to build mobile apps someday.</p>
         <p> I am also fascinated with blockchain technology and I love indulging myself in cryptocurrencies. </p>
         
 <ul>
-<li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Any freelance work? Do reach, <a href="mailto:ganeshksp@outlook.com">email</a> :)</li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
+<li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Any freelance work? Do reach, <a href="mailto:ganeshksp@outlook.com">email</a> :) </li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help ;) </li>
 </ul>
 
 <p>
